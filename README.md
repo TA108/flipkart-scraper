@@ -1,2 +1,2 @@
-# flipkart-laptops-scraper
-Flipkart Laptop Scraper (Selenium + BeautifulSoup)
+# flipkart-scraper
+Flipkart Scraper (Selenium + BeautifulSoup)
