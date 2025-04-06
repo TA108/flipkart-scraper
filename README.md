@@ -38,5 +38,4 @@ The program is completely headless — it runs in the background without opening
 ### 🔧 Install dependencies using Conda
 
 ```bash
-conda env create -f env.yml
-conda activate flipkart-scraper
+conda env create -f env.yml -n your_env_name
